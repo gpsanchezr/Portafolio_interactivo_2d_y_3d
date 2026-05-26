@@ -684,7 +684,7 @@ Vercel → Settings → Domains → Add → gisee.dev
 | ✅ Carga rápida | Lazy loading + Suspense | World3D.tsx |
 | ✅ Marca personal | Logo 🌸 GS, paleta sakura | globals.css |
 | ✅ CV descargable | Botón en navbar y footer | Portfolio.tsx |
-| ✅ WordPress+Divi | Servicio ofrecido, skill incluido | Portfolio.tsx |
+| ✅ WordPress+Divi | Servicio ofrecido aparte(opcional), skill incluido | Portfolio.tsx |
 | ✅ Creatividad extra | Mundo 3D interactivo RPG | world/ completo |
 
 **Nota SENA:** Este portfolio supera los requisitos mínimos al incluir un mundo 3D interactivo único, física real, avatar personalizado, base de datos en tiempo real y deploy profesional.
